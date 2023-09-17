@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://velog.io/@ljwljy51
+
 <div align=center>
   <img src="https://img.shields.io/badge/pytorch-FF4154?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
+
 - 🌱 I’m interested in Data Engineering & Machine / Deep Learning
   - Computer Vision
  
