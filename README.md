@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 https://velog.io/@ljwljy51
 
 <div align=left>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
@@ -26,3 +29,5 @@ https://velog.io/@ljwljy51
  
 - 📫 How to reach me:
   - ljwljy51@naver.com
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ljwjly51)](https://velog.io/@ljwljy51)
