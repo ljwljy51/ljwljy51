@@ -29,5 +29,7 @@ https://velog.io/@ljwljy51
  
 - 📫 How to reach me:
   - ljwljy51@naver.com
+</br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ljwjly51)](https://velog.io/@ljwljy51)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ljwjly51)](https://velog.io/@ljwljy51)
+
