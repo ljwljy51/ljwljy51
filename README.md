@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://velog.io/@ljwljy51
+- 🌱 I’m interested in Data Engineering & Machine / Deep Learning
+  - Computer Vision
+ 
+- 📫 How to reach me:
+  - ljwljy51@naver.com
