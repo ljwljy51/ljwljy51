@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ljwljy51)](https://github.com/ljwljy51/velog-readme-stats)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ljwljy51&tag=논문리뷰)](https://github.com/ljwljy51/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ljwljy51&tag=project_mini)](https://github.com/ljwljy51/velog-readme-stats)
+
+
 <div align=left>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
