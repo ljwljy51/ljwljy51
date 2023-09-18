@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 - ✏️ I’m currently studying...
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ljwljy51&tag=project_mini)](https://github.com/ljwljy51/velog-readme-stats)
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ljwljy51&tag=논문리뷰)](https://github.com/ljwljy51/velog-readme-stats)
  
 - 📫 How to reach me:
