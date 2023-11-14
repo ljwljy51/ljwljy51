@@ -23,8 +23,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
 
-- 🌱 I’m interested in Data Engineering & Machine / Deep Learning
+- 🌱 I’m interested in Machine / Deep Learning
   - Computer Vision
+  - Data Analysis
+  - Data Science
  
 - 📫 How to reach me:
   - ljwljy51@naver.com
