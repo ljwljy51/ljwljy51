@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 </div>
 
 - 🌱 I’m interested in Machine / Deep Learning
-  - Computer Vision
   - Data Analysis
   - Data Science
  
