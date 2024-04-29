@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 🌱 I’m interested in Machine / Deep Learning
   - Data Analysis
   - Data Science
+  - AI Engineering
  
 - 📫 How to reach me:
   - ljwljy51@naver.com
