@@ -23,10 +23,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
 
-- 🌱 I’m interested in Machine / Deep Learning
-  - Data Analysis
+- 🔭 I worked as...
+  - AI Enginner
+    - Object Detection
+    - Anomaly Detection
+  - Data Scientist
+    - Segmentation Analysis
+    - Customer Churn Analysis
+    - Propensity Modeling
+
+- 🌱 I’m interested in Machine / Deep Learning & Data Processing
   - Data Science
-  - AI Engineering
+  - Data Engineering
+  - ML / AI Engineering
  
 - 📫 How to reach me:
   - ljwljy51@naver.com
