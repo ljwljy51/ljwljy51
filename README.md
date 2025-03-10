@@ -23,7 +23,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
 
-- 🔭 I worked as...
+- 🔭 I’m currently working on 
+  - Data Engineer
+
+
+- 🔭 And I worked as...
   - AI Enginner
     - Object Detection
     - Anomaly Detection
